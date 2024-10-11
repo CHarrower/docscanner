@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Output folder path
-output_folder = "/Users/harrowxcii/Documents/Coding/Python_folder/personal_code/docscanner/output"
+output_folder = "** add your own file path **"
 os.makedirs(output_folder, exist_ok=True)
 
 # Function to reorder points for perspective transform
